@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefMapper", "RefMapper\RefM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefMapper.Tests", "RefMapper.Tests\RefMapper.Tests.csproj", "{806F7306-B62A-45C8-94B5-B12AE4B4D34C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRunner", "TestRunner\TestRunner.csproj", "{04E6E7E9-7772-4F23-8D11-3019297F1618}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{806F7306-B62A-45C8-94B5-B12AE4B4D34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{806F7306-B62A-45C8-94B5-B12AE4B4D34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{806F7306-B62A-45C8-94B5-B12AE4B4D34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E6E7E9-7772-4F23-8D11-3019297F1618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E6E7E9-7772-4F23-8D11-3019297F1618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E6E7E9-7772-4F23-8D11-3019297F1618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E6E7E9-7772-4F23-8D11-3019297F1618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
